@@ -1,3 +1,5 @@
+//Copyright © 2026 Luigi Corvasce
+
 #include "raylib.h"
 #include <stdio.h>
 #include <stdlib.h>
